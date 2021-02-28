@@ -216,7 +216,7 @@
     .featured-tech-list {
         display: flex;
         flex-direction: row;
-        width: 100%;
+        max-width: 100%;
         list-style: none;
         font-size: .925rem;
         justify-content: center;
