@@ -5,7 +5,7 @@ import './assets/css/hero.css'
 const Hero = () => {
     const one = <h1 className = 'hero-welcome'>  Hi, welcome to </h1>
     const two = <h2 className = 'hero-name'>Edgar Griffin </h2>
-    const three = <h3 className = 'hero-title'> Front-End Developer </h3>
+    const three = <h3 className = 'hero-title'> Software Engineer</h3>
     const four = (
         <p className = 'hero-desc'>
             I am a newly graduated software developer from Georgia Southern 
