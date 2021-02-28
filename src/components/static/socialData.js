@@ -11,7 +11,7 @@ export const Social = [
   {
     id: 2,
     icon: <FaIcons.FaGithubSquare className = "social-icon" />,
-    url: "https://github.com/edgarcgriffinjr.com",
+    url: "https://github.com/edgarcgriffinjr",
   },
   {
     id: 3,
