@@ -3,7 +3,7 @@ import { HashLink as Link} from 'react-router-hash-link'
 import * as AiIcons from 'react-icons/ai'
 import * as CgIcons from 'react-icons/cg'
 
-import pdf from '../assets/docs/EGriffin-Frontend.pdf'
+import pdf from '../assets/docs/resume.pdf'
 import { navData } from '../static/navData'
 import '../assets/css/nav.css'
 import Logo  from '../static/logo'
